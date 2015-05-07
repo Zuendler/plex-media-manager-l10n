@@ -49,7 +49,7 @@
 "> Album reviews" = "> Albumrezensionen";
 
 /* First-run help item */
-"> Artist biographies and artwork" = "> Interpretenbiographien und Bilder";
+"> Artist biographies and artwork" = "> Biographien und Bilder der Interpreten";
 
 /* First-run help item */
 "> Automatic theme music for TV shows" = "> Automatische Titelmusik für Serien";
@@ -64,7 +64,7 @@
 "> Movie posters and art" = "> Filmposter und Bilder";
 
 /* First-run help item */
-"> Organize movies into collections" = "> Organisieren von Filmen in Sammlungen";
+"> Organize movies into collections" = "> Filme einer Filmreihe zuordnen";
 
 /* First-run help item */
 "> Thumbnails for every episode" = "> Vorschaubilder für jede Episode";
@@ -73,22 +73,22 @@
 "> TV show posters and art" = "> Serienposter und Bilder";
 
 /* First-run title for adding home movies */
-"Add Home Movies Section" = "Heimvideo Sektion hinzufügen";
+"Add Home Movies Section" = "Heimvideobereich hinzufügen";
 
 /* First-run title for adding movies */
-"Add Movies Section" = "Film Sektion hinzufügen";
+"Add Movies Section" = "Filmbereich hinzufügen";
 
 /* First-run title for adding music */
-"Add Music Section" = "Musik Sektion hinzufügen";
+"Add Music Section" = "Musikbereichn hinzufügen";
 
 /* Add section confirm button text */
-"Add Section" = "Sektion hinzufügen";
+"Add Section" = "Bereich hinzufügen";
 
 /* Section settings primary informative text */
 "Add the folders containing media for this section below. Any media files found inside these folders will be scanned into your library using the above settings." = "Fügen Sie Ordner mit Mediendaten in den untenstehenden Bereich ein. Jede gefundene Mediendatei wird entsprechend der oben gemachten Einstellungen in die Mediathek aufgenommen.";
 
 /* First-run title for adding TV shows */
-"Add TV Shows Section" = "Serien Sektion hinzufügen";
+"Add TV Shows Section" = "Serienbereich hinzufügen";
 
 /* Advanced */
 "Advanced" = "Erweitert";
@@ -103,19 +103,19 @@
 "AM" = "AM";
 
 /* Informative text for removing a section */
-"Any content in this section will no longer be available in your library. The files on your computer will not be removed." = "Alle Inhalte dieser Sektionen werden aus Ihrer Mediathek entfernt. Die Mediendateien auf Ihrem Rechner werden nicht gelöscht.";
+"Any content in this section will no longer be available in your library. The files on your computer will not be removed." = "Sämtlicher Inhalt aus diesem Bereich wird nicht mehr in ihrer Mediathek  zur Verfügung stehen. Die Mediendateien auf Ihrem Rechner werden nicht gelöscht.";
 
 /* Preference window setting */
 "Aperture Sharing Enabled" = "Aperture Freigabe aktivieren";
 
 /* Disable secure server access confirmation */
-"Are you sure you want to disable secure access to your server?" = "Sind Sie sicher das der Sichere Zugang deaktiviert werden soll?";
+"Are you sure you want to disable secure access to your server?" = "Sind Sie sicher das der Sichere Zugriff zu ihrem Server deaktiviert werden soll?";
 
 /* Confirmation text for the empty trash confirmation dialog */
-"Are you sure you want to empty the trash in \"%@\"?" = "Soll der Papierkorb in der Sektion \"%@\" wirklich geleert werden?";
+"Are you sure you want to empty the trash in \"%@\"?" = "Soll der Papierkorb im Bereich \"%@\" wirklich geleert werden?";
 
 /* Confirmation message for removing a section */
-"Are you sure you want to remove the section named \"%@\"?" = "Wollen Sie die Sektion \"%@\" wirklich löschen?";
+"Are you sure you want to remove the section named \"%@\"?" = "Wollen Sie den Bereich \"%@\" wirklich löschen?";
 
 /* A musical artist */
 "artist" = "Interpret";
@@ -127,13 +127,13 @@
 "Authenticate" = "Anmeldung";
 
 /* Login prompt title */
-"Authentication Required" = "Anmeldung nötig";
+"Authentication Required" = "Anmeldung erforderlich";
 
 /* Cancel */
 "Cancel" = "Abbrechen";
 
 /* Preference window setting detail */
-"Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications." = "Kompatibilitätsprüfung stellt sicher, dass Plug-Ins mit der aktuellen Version des Medienservers und der Anwendung zusammenarbeiten. Nicht kompatible Plug-Ins werden ausgeblendet. Das Ausschalten der Kompatibilitätsprüfung kann bei der Entwicklung von Plug-Ins helfen, erlaubt aber Zugriff auf Plug-Ins, die eventuell nicht oder nicht wie gewünscht mit der aktuellen Programmversion zusammenarbeiten.";
+"Capability checking ensures that plug-ins that are incompatible with this version of the server or the current client application you are using are hidden. Disabling capability checking is useful during development, but will enable access to plug-ins that may perform unreliably with certain client applications." = "Die Kompatibilitätsprüfung stellt sicher, dass Plug-Ins welche nicht kompatibel mit dieser Version des Servers oder mit dem derzeitig von Ihnen genutzten Client sind, ausgeblendet werden. Das Ausschalten der Kompatibilitätsprüfung kann während der Entwicklung nützlich sein, erlaubt aber Zugriff auf Plug-Ins, die eventuell nicht oder nicht wie gewünscht mit der aktuellen Programmversion zusammenarbeiten.";
 
 /* Change */
 "Change" = "Ändern";
@@ -148,7 +148,7 @@
 "Change Username" = "Benutzername ändern";
 
 /* Change username prompt message */
-"Change your username, and enter your password to authenticate." = "Ändere den Benutzername und Passwort zum Anmelden.";
+"Change your username, and enter your password to authenticate." = "Sie müssen ihren Benutzernamen ändern und ihr Passwort eingeben um sich anzumelden.";
 
 /* Choose Album Thumbnail menu item */
 "Choose Album Thumbnail" = "Album Vorschaubild auswählen";
@@ -172,7 +172,7 @@
 "Choose Season Thumbnail" = "Staffel Vorschaubild auswählen";
 
 /* First-run help title */
-"Click the titles below to create library sections for your media and have it served to your Plex-enabled devices." = "Klicken sie auf die Einträge unten, um in der Mediathek Sektionen für Ihre Mediendaten zu erstellen, die dann mit PLEX-kompatiblen Geräten und Programmen benutzt werden können.";
+"Click the titles below to create library sections for your media and have it served to your Plex-enabled devices." = "Klicken sie auf die unten folgenden Titel, um in der Mediathek Bereiche für Ihre Mediendaten zu erstellen, die ihren  PLEX-Clients dann zur Verfügung gestellt werden.";
 
 /* Collections */
 "Collections" = "Sammlungen";
@@ -190,7 +190,7 @@
 "Custom Search" = "Erweiterte Suche";
 
 /* Customize Section */
-"Customize Section" = "Sektion anpassen";
+"Customize Section" = "Bereich anpassen";
 
 /* Library scan interval (i.e. Update my library daily */
 "daily" = "Täglich";
@@ -202,7 +202,7 @@
 "Disable capability checking" = "Kompatibilitätsprüfung deaktivieren";
 
 /* Disable secure server confirmation button */
-"Disable Secure Access" = "Deaktivere Sicheren Zugang";
+"Disable Secure Access" = "Deaktivere Sicheren Zugriff";
 
 /* Done */
 "Done" = "Fertig";
@@ -217,7 +217,7 @@
 "Edit Metadata..." = "Metadaten bearbeiten...";
 
 /* Edit Section */
-"Edit Section" = "Sektion bearbeiten";
+"Edit Section" = "Bereich bearbeiten";
 
 /* Confirmation button for the empty trash confirmation dialog
    Menu item title in the library section action menu when there is nothing in the trash */
@@ -236,13 +236,13 @@
 "Enable" = "Aktivieren";
 
 /* Check box label to enable secure server access */
-"Enable Secure Access" = "Sicheren Zugang aktivieren";
+"Enable Secure Access" = "Sicheren Zugriff aktivieren";
 
 /* Enable security prompt message */
-"Enter a password to enable secure access to your server:" = "Gib ein Passwort zum aktivieren des Sicheren Zugangs ein:";
+"Enter a password to enable secure access to your server:" = "Geben Sie ein Passwort ein um einen sicheren Zugriff auf ihren Server zu aktivieren:";
 
 /* Change password prompt message */
-"Enter your current password to authenticate, then enter and verify your new password." = "Bitte zuerst bestehendes Passwort und anschließend neues Passwort sowie Passwortbestätigung eingeben.";
+"Enter your current password to authenticate, then enter and verify your new password." = "Geben sie ihr derzeitiges Passwort zur Identifikation ein, danach bestätigen sie ihr neues Passwort.";
 
 /* A TV Show episode */
 "episode" = "Episode";
@@ -284,16 +284,16 @@
 "Genres" = "Genres";
 
 /* Error message for when we cannot remove a library section */
-"Got this error: %@. Are you sure Plex Media Server is running?" = "Fehler: %@. Stellen Sie sicher, dass der Plex Media Server läuft.";
+"Got this error: %@. Are you sure Plex Media Server is running?" = "Fehler: %@. Sind Sie sicher das ihr Plex Media Server ist erreichbar ist?";
 
 /* Library scan interval (i.e. Update my library hourly) */
 "hourly" = "Stündlich";
 
 /* Security preference pane explanation */
-"If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server." = "Wenn sie Ihre Medien über das Internet zugänglich machen wollen, sollten Sie den Sicheren Zugang aktivieren um einen unberechtigten Zugriff zu verhindern";
+"If you want to share your media over the Internet, you can turn on Secure Server Access to prevent unauthorized access to your server." = "Wenn sie Ihre Medien über das Internet zugänglich machen wollen, sollten Sie den sicheren Serverzugriff aktivieren um einen unberechtigten Zugriff zu verhindern.";
 
 /* Preference window setting */
-"Include music sections in automatic updates" = "Musikbereich in automatische Updates einbeziehen";
+"Include music sections in automatic updates" = "Musikbereiche in automatische Updates mit einbeziehen";
 
 /* Preference window setting */
 "iPhoto Sharing Enabled" = "iPhoto Freigabe aktivieren";
@@ -305,7 +305,7 @@
 "Language:" = "Sprache:";
 
 /* Preference window setting */
-"Large music sections may take a long time to scan" = "Die Aktualisierung großer Musik Sektionen kann lange dauern.";
+"Large music sections may take a long time to scan" = "Scannen von großen Musiksammlungen, könnte unter Umständen eine lange Zeit in Anspruch nehmen.";
 
 /* Status label for media items */
 "Last refreshed %@ at %@" = "Letzte Aktualisierung %1$@ um %2$@ Uhr";
@@ -415,7 +415,7 @@
 "Path of the directory you'd like to add:" = "Pfad des hinzuzufügenden Ordners:";
 
 /* Login prompt message */
-"Plex Media Server requires a username and password:" = "Plex Media Server braucht einen Benutzernamen und Passwort:";
+"Plex Media Server requires a username and password:" = "Plex Media Server benötigt einen Benutzernamen und ein Passwort:";
 
 /* PostMeridiem */
 "PM" = "PM";
@@ -424,7 +424,7 @@
 "Preferences" = "Einstellungen";
 
 /* Primary metadata agent label */
-"Primary metadata agent:" = "Primärer Metadaten Agent:";
+"Primary metadata agent:" = "Primärer Metadaten-Agent:";
 
 /* Rating */
 "Rating" = "Bewertung";
@@ -442,7 +442,7 @@
 "Remember me on this computer" = "Angemeldet bleiben";
 
 /* Remove section confirmation button */
-"Remove Section" = "Sektion entfernen";
+"Remove Section" = "Bereich entfernen";
 
 /* Metadata item status message when its info is downloading */
 "Requesting metadata for '%@'" = "Fordere Metadaten für '%@' an";
@@ -451,7 +451,7 @@
 "Saturday" = "Samstag";
 
 /* Save */
-"Save" = "Sichern";
+"Save" = "Speichern";
 
 /* Metadata item status message when it is newly scanned/created */
 "Scanning '%@'" = "Scanne '%@'";
@@ -466,13 +466,13 @@
 "season" = "Staffel";
 
 /* Section name label */
-"Section name:" = "Sektionsname:";
+"Section name:" = "Bereichsname:";
 
 /* Section type label */
-"Section type:" = "Sektionstyp:";
+"Section type:" = "Bereichstyp:";
 
 /* Security preference pane title */
-"Secure Server Access" = "Sicherer Zugang";
+"Secure Server Access" = "Sicherer Serverzugriff";
 
 /* Security */
 "Security" = "Sicherheit";
@@ -484,7 +484,7 @@
 "Select %@" = "%@ auswählen";
 
 /* Directory-browser title when adding/editing sections */
-"Select a directory for this section:" = "Wählen Sie einen Ordner für diese Sektion:";
+"Select a directory for this section:" = "Wählen Sie ein Verzeichnis für diesen Bereich:";
 
 /* Select Folder */
 "Select Folder" = "Ordner auswählen";
@@ -526,7 +526,7 @@
 "Sunday" = "Sonntag";
 
 /* Tagline */
-"Tagline" = "Aufmacher";
+"Tagline" = "Untertitel";
 
 /* 'Match Using' error message */
 "There was no acceptable match using the specified agent." = "Mit dem verwendeten Agenten konnte keine passende Übereinstimmung gefunden werden.";
@@ -538,7 +538,7 @@
 "This name will be used to identify this media server to other computers on your network. If you leave it blank, your computer's name will be used instead." = "Dieser Name wird verwendet, um den Server in Ihrem Netzwerk eindeutig zu identifizieren. Wenn Sie das Feld leer lassen, wird Ihr Computername verwendet.";
 
 /* Warning for IE users */
-"This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame." = "Diese Seite funktioniert nicht mit Microsoft Internet Explorer. Klicken Sie hier, um Google Chrome Frame zu installieren.";
+"This site does not support Internet Explorer. For the best experience, click here to install Google Chrome Frame." = "Diese Seite unterstützt nicht den Microsoft Internet Explorer. Klicken Sie hier, um Google Chrome Frame zu installieren.";
 
 /* Thursday */
 "Thursday" = "Donnerstag";
@@ -559,22 +559,22 @@
 "Tuesday" = "Donnerstag";
 
 /* Disable secure server access confirmation info */
-"Turning off secure server access will allow incoming connections from any computer." = "Die Deaktivierung des Sicheren Zugangs erlaubt eingehende Verbindungen für jeden Computer.";
+"Turning off secure server access will allow incoming connections from any computer." = "Die Deaktivierung des sicheren Serverzugriffs erlaubt eingehende Verbindungen von jedem Computer.";
 
 /* TV Shows */
 "TV Shows" = "Serien";
 
 /* Error title for when we cannot connect to PMS or when the response is invalid */
-"Unable to connect to Plex Media Server" = "Kann nicht zu Plex Media Server verbinden";
+"Unable to connect to Plex Media Server" = "Die Verbindung zum Plex Media Server konnte nicht hergestellt werden";
 
 /* Unable to create library section */
-"Unable to create library section" = "Konnte Sektion nicht anlegen";
+"Unable to create library section" = "Der Bereich kann in der Mediathek nicht angelegt werden";
 
 /* Error title for when we cannot remove a library section */
-"Unable to remove section \"%@\"" = "Konnte Sektion \"%@\" nicht entfernen";
+"Unable to remove section \"%@\"" = "Der Bereich \"%@\" kann nicht entfernen";
 
 /* Unable to update library section */
-"Unable to update library section" = "Konnte Sektion nicht aktualisieren";
+"Unable to update library section" = "Der Bereich in der Mediathek kann nicht aktualisiert werden";
 
 /* Context menu item for metadata items */
 "Unmatch" = "Metadaten verwerfen";
@@ -583,10 +583,10 @@
 "Update my library" = "Mediathek aktualisieren";
 
 /* Preference window setting */
-"Update my library when changes to my folders are detected" = "Mediathek aktualisieren, wenn Änderungen in der Ordnerstruktur gemacht werden";
+"Update my library when changes to my folders are detected" = "Mediathek aktualisieren, wenn Änderungen innerhalb der Ordner  vorgenommen werden";
 
 /* Update section confirm button text */
-"Update Section" = "Sektion aktualisieren";
+"Update Section" = "Bereich aktualisieren";
 
 /* Username field placeholder */
 "Username" = "Benutzername";
